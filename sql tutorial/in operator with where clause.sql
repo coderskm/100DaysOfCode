@@ -1,0 +1,1 @@
+select * from students where age in(24,34,64,21);
